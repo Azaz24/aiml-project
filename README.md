@@ -56,3 +56,13 @@ https://github.com/Azaz24/aiml-project
 
 
 
+\## Notes
+
+\- Pulled latest changes from GitHub before pushing local updates.
+
+\- Followed standard Git workflow for collaboration.
+
+
+
+
+
