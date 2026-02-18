@@ -1,8 +1,8 @@
-\* ML Project - Git \& GitHub Assignment
+\# ML Project - Git \& GitHub Assignment
 
 
 
-\*\* Project Files
+\## Project Files
 
 \- train.py – Model training script
 
@@ -16,7 +16,7 @@
 
 
 
-\*\* Collaborative Workflow Steps
+\## Collaborative Workflow Steps
 
 
 
@@ -50,7 +50,7 @@
 
 
 
-\*\* Repository Link
+\## Repository Link
 
 https://github.com/Azaz24/aiml-project
 
